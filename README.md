@@ -15,7 +15,7 @@ A simple Command-Line Interface (CLI) application to manage daily tasks. This pr
 ## 💻 How to Run the Project
 1. Clone this repository:
    
-   git clone [https://github.com/YourUsername/Python-Task-Manager.git](https://github.com/YourUsername/Python-Task-Manager.git)
+   git clone [https://github.com/YourUsername/Python-Task-Manager.git](https://github.com/YourUsername/Python-Task-Manager.git)](https://github.com/naveenpython/Python-Task-Manager.git)
    Open the folder in your terminal.
 
 Run the python file:
